@@ -1,0 +1,22 @@
+<?php
+	$lang['add_new_service'] = "បង្កើតសេវាកម្មថ្មី";
+	$lang['service']="ឈ្មោះសេវាកម្ម";
+	$lang['service_type']="ប្រភេទសេវាកម្ម";
+	$lang['no']="ល.រ";
+	$lang['code']="លេខកូដ";
+	$lang['note']="កំណត់សម្គាល់";
+	$lang['price']="តំលៃ";
+	$lang['service_code']="លេខកូដ";
+	$lang['service_name']="ឈ្មោះសេវាកម្ម";
+	$lang['sub_service_type']="ក្រុមសេវាកម្ម";
+	$lang['confirm_delete'] = "តើអ្នកចង់លុបផ្នែកសេវាកម្មនេះមែនទេ?";
+	$lang['alert_duplicate']="លេខកូដសេវាកម្មនេះមានរួចហើយ។ សូមបញ្ចូលលេខកូដម្ដងទៀត";
+	$lang['confirm_save']="តើអ្នកពិតជាចងរក្សាទុកមែនរឺ?";
+	$lang['confirm_update']="តើអ្នកពិតជាចងកែប្រែមែនរឺ?";
+	$lang['alert_code']="សូមបញូលលេខកូដមុននឹងដំណើរការ";
+	$lang['alert_service_name']="សូមបញូលឈ្មោះសេវាកម្មមុននឹងដំណើរការ";
+	$lang['alert_disease_type']="សូមជ្រើសរើសប្រភេទសេវាកម្មមុននឹងដំណើរការ";
+	$lang['delete_success']="លុបរួចរាល់";
+	$lang['alert_check']="សូមទោស អ្នកមិនអាចលុបបានទេ វាមានប្រតិបត្តការរួចហើយ";
+	$lang['search_title']="ស្វែងរក";
+	$lang['action']="សកម្មភាព";

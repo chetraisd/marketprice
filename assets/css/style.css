@@ -1,0 +1,97 @@
+
+body {
+    font-family: Verdana, "Khmer OS Battambang", "Khmer OS Freehand", Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+/* ------- for parsley  validation ------*/
+input.parsley-error, textarea.parsley-error, select.parsley-error, .parsley-error .ms-selection .ms-list, .parsley-error .select2-container-multi .select2-choices, .parsley-error .input_validate {
+    background: none repeat scroll 0 0 #fff2f2 !important;
+    border: 1px solid #cc0000 !important;
+}
+
+.parsley-error-list {
+    margin: 0;
+    padding: 5px 0 0;
+}
+
+.parsley-errors-list li {
+    list-style: none !important;
+    color: #cc0000;
+    font-size: 12px;
+}
+
+div.parsley-error .parsley-error-list {
+    margin-top: 5px;
+}
+
+.parsley-error-list + label {
+    margin-top: 10px;
+}
+
+/* ------- end of parsley  validation ------*/
+.result_info {
+    font-family: Verdana, "Khmer OS Niroth", "Khmer OS Muol Light", Geneva, Arial, Helvetica, sans-serif;
+    background-color: #d9edf7;
+    height: 37px;
+    padding: 15px border-color : #bce8f1;
+    color: #31708f;
+    border-radius: 4px;
+    line-height: 37px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+
+.datepicker {
+    z-index: 1000;
+}
+
+.navbar-brand {
+    padding-top: 1px;
+    padding-left: 2px;
+}
+
+.navbar-brand img {
+    height: 48px;
+}
+
+.ui-autocomplete {
+    height: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.top_action_button {
+    padding-left: 5px;
+}
+
+.no_wrap {
+    white-space: nowrap;
+}
+
+.alright {
+    text-align: right;
+}
+
+.ui-autocomplete {
+    z-index: 9999;
+}
+
+.datepicker {
+    z-index: 9999;
+}
+
+.sms {
+    color: #00b3ee;
+    font-size: 18px;
+    font-style: italic;
+    font-family: "Comic Sans MS", "Times New Roman", Arial !important;
+}
+label{
+    font-weight: normal !important;
+}
+

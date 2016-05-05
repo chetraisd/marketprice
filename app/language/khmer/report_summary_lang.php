@@ -1,0 +1,16 @@
+<?php 
+	$lang['search_cust']="ស្វែងរក";
+	$lang['customer']="ឈ្មោះអតិថិជន";
+	$lang['service_type']="ប្រភេទសេវាកម្ម";
+	$lang['from_date']="ចាប់ពីថ្ងៃ";
+	$lang['to_date']="ដល់ថ្ងៃ";
+	$lang['No']="ល.រ";
+	$lang['date']="កាលបរិច្ឆេទ";
+	$lang['invoice']="លេខវិក្កយបត្រ";
+	$lang['amount']="សរុប";
+	$lang['no_data']="អត់មានទិន្នន័យ";
+	$lang['total']="សរុបចុងក្រោយ";
+	$lang['search']="ស្វែងរក";
+	$lang['action']="សកម្មភាព";
+	$lang['confirm_delete']="តើអ្នកពិតជាចង់លុបមែនទេ";
+?>
